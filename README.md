@@ -28,6 +28,6 @@ $ cd Yt
 *$ python3 main.py https://youtu.be/1-xGerv5FOk*
 
 **CARA KEDUA**
-*$ python3 main.py
+*$ python3 main.py*
 
-![proses download](3DTest.png)
+![proses download](Screenshot_20210109-050518.png)
