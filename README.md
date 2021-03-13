@@ -22,12 +22,12 @@ $ cd Yt
 *UNTUK MENJALAN PROGRAM ADA 2 CARA YAITU:*
 
 **Cara pertama**
-*$ python3 main.pyc [link video YouTube]*
+*$ python3 main.py [link video YouTube]*
 
 **CONTOH :**
-*$ python3 main.pyc https://youtu.be/1-xGerv5FOk*
+*$ python3 main.py https://youtu.be/1-xGerv5FOk*
 
 **CARA KEDUA**
-*$ python3 main.pyc*
+*$ python3 main.py*
 
 ![proses download](Screenshot_20210109-050518.png)
